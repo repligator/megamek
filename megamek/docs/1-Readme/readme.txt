@@ -72,7 +72,7 @@ This is the largely legacy Java implementation after Oracle open sourced the cod
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
 **Mac OSX:**
-See this support article on the apple support website for
+See this support article on the Apple support website for
 instructions:
 https://support.apple.com/en-us/HT204036.
 _Note: For advanced users, it is recommended you install java via
@@ -428,7 +428,7 @@ best compatibility we recommend using MegaMekLab. Any issues from the use of oth
 should be directed to their developers for support. 
  
 _Note of file types_
-MegaMek uses two file types for units. Files with the extension MTF are mechs, and all other unit types are BLK files.  Both our editable with a quality text editor, but we recommend not hand editing files as it can break the programs. 
+MegaMek uses two file types for units. Files with the extension MTF are mechs, and all other unit types are BLK files.  Both are editable with a quality text editor, but we recommend not hand editing files as it can break the programs.
 
 
 ADVANCED MAP SETTINGS

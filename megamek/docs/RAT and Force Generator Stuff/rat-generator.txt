@@ -7,7 +7,7 @@ Usage
 The RAT Generator is available as a tab in the Random Army dialog, accessed by the "Create Random Army..." button in MegaMek. Set the parameters for the type of units you wish to generate and click the "Generate" button. You can then use the "Roll" button in the panel on the right to select units at random from the table, at which point they can be reviewed and added to the player's force. You can also select a row on the generated table and add it directly to the force by selecting the "Add to Force" button. If no table appears, there are no units available to the selected faction that meet the criteria.
 
 Description of Controls
-Year: The game year for which to generate units. The initial value is filled in from the game options, but can be changed here without having to go back to the game options dialog and without changing the value set in the game options. This can be any value between 2398 and 3150.
+Year: The game year for which to generate units. The initial value is filled in from the game options, but can be changed here without having to go back to the game options dialog and without changing the value set in the game options. This can be any value between 2398 and 3160.
 
 Units: How many units to generate from the table when the "Roll" button is clicked.
 
